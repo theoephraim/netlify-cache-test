@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "echo \"BUILDING!\""
+    "build": "curl -L https://api.github.com/repos/theoephraim/netlify-cache-test-plugin/commits"
   },
   "keywords": [],
   "author": "",
